@@ -1,0 +1,116 @@
+2024-11-14 19:36:01 Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-14 19:36:01 Database file path set to: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-14 19:36:01 Port set to: 33333
+2024-11-14 19:36:01 Connected to database is ok!
+2024-11-14 19:36:01 Server started
+2024-11-14 19:36:01 Listen socket created
+2024-11-14 19:36:01 Socket bind err
+2024-11-14 19:36:11 Client socket created
+2024-11-14 19:36:11 Received authentication message: user2246068A000C7B2D7DCDAD4D7904237F6E0A0736D08E214BC965FA4676E311EFEA3818D870850D86
+2024-11-14 19:36:11 Auth message parsed. Login: user, Salt: 2246068A000C7B2D, Client Hash: 7DCDAD4D7904237F6E0A0736D08E214BC965FA4676E311EFEA3818D870850D86
+2024-11-14 19:36:11 Calculated expected hash: 7DCDAD4D7904237F6E0A0736D08E214BC965FA4676E311EFEA3818D870850D86
+2024-11-14 19:36:11 Authentication successful. Sent OK to client.
+2024-11-14 19:36:11 Vector count received
+2024-11-14 19:36:11 Result of calculating vector sent
+2024-11-14 19:36:11 Result of calculating vector sent
+2024-11-14 19:36:11 Result of calculating vector sent
+2024-11-14 19:36:11 Result of calculating vector sent
+2024-11-14 19:36:13 Client socket created
+2024-11-14 19:36:13 Received authentication message: userE043D8E540CFE98E0898CE643FDF7E1B92D4497A474E7EA13F0FC6B36F3B16BF7880CA284CB78EB7
+2024-11-14 19:36:13 Auth message parsed. Login: user, Salt: E043D8E540CFE98E, Client Hash: 0898CE643FDF7E1B92D4497A474E7EA13F0FC6B36F3B16BF7880CA284CB78EB7
+2024-11-14 19:36:13 Calculated expected hash: 0898CE643FDF7E1B92D4497A474E7EA13F0FC6B36F3B16BF7880CA284CB78EB7
+2024-11-14 19:36:13 Authentication successful. Sent OK to client.
+2024-11-14 19:36:13 Vector count received
+2024-11-14 19:36:13 Result of calculating vector sent
+2024-11-14 19:36:13 Result of calculating vector sent
+2024-11-14 19:36:13 Result of calculating vector sent
+2024-11-14 19:36:13 Result of calculating vector sent
+2024-11-14 19:36:14 Client socket created
+2024-11-14 19:36:14 Received authentication message: userCA97C30384EA1EE79B7C087C5BF63138409F7A3B1A7D2F50F195BDC26D0BDC502E063FA102D6E838
+2024-11-14 19:36:14 Auth message parsed. Login: user, Salt: CA97C30384EA1EE7, Client Hash: 9B7C087C5BF63138409F7A3B1A7D2F50F195BDC26D0BDC502E063FA102D6E838
+2024-11-14 19:36:14 Calculated expected hash: 9B7C087C5BF63138409F7A3B1A7D2F50F195BDC26D0BDC502E063FA102D6E838
+2024-11-14 19:36:14 Authentication successful. Sent OK to client.
+2024-11-14 19:36:14 Vector count received
+2024-11-14 19:36:14 Result of calculating vector sent
+2024-11-14 19:36:14 Result of calculating vector sent
+2024-11-14 19:36:14 Result of calculating vector sent
+2024-11-14 19:36:14 Result of calculating vector sent
+2024-11-14 19:36:16 Client socket created
+2024-11-14 19:36:16 Received authentication message: userC3DFA5037CA02DEF486805202B85BD79AFA86A9A38374C24B4ACC8BFC01695D2E804610C3D963FB8
+2024-11-14 19:36:16 Auth message parsed. Login: user, Salt: C3DFA5037CA02DEF, Client Hash: 486805202B85BD79AFA86A9A38374C24B4ACC8BFC01695D2E804610C3D963FB8
+2024-11-14 19:36:16 Calculated expected hash: 486805202B85BD79AFA86A9A38374C24B4ACC8BFC01695D2E804610C3D963FB8
+2024-11-14 19:36:16 Authentication successful. Sent OK to client.
+2024-11-14 19:36:16 Vector count received
+2024-11-14 19:36:16 Result of calculating vector sent
+2024-11-14 19:36:16 Result of calculating vector sent
+2024-11-14 19:36:16 Result of calculating vector sent
+2024-11-14 19:36:16 Result of calculating vector sent
+2024-11-14 19:36:18 Client socket created
+2024-11-14 19:36:18 Received authentication message: user2D2646C1007A6E6DA69C0F2ACB08D8B4D44605D69FCB4FC9B0971A886CB86DB40FACACEC892FF695
+2024-11-14 19:36:18 Auth message parsed. Login: user, Salt: 2D2646C1007A6E6D, Client Hash: A69C0F2ACB08D8B4D44605D69FCB4FC9B0971A886CB86DB40FACACEC892FF695
+2024-11-14 19:36:18 Calculated expected hash: A69C0F2ACB08D8B4D44605D69FCB4FC9B0971A886CB86DB40FACACEC892FF695
+2024-11-14 19:36:18 Authentication successful. Sent OK to client.
+2024-11-14 19:36:18 Vector count received
+2024-11-14 19:36:18 Result of calculating vector sent
+2024-11-14 19:36:18 Result of calculating vector sent
+2024-11-14 19:36:18 Result of calculating vector sent
+2024-11-14 19:36:18 Result of calculating vector sent
+2024-11-14 19:38:36 - Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-14 19:38:36 - Database file path set to: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-14 19:38:36 - Port set to: 33333
+2024-11-14 19:38:36 - Connected to database is ok!
+2024-11-14 19:38:36 - Server started
+2024-11-14 19:38:36 - Listen socket created
+2024-11-14 19:38:36 - Socket bind err
+2024-11-14 19:38:53 - Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-14 19:38:53 - Database file path set to: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-14 19:38:53 - Port set to: 33333
+2024-11-14 19:38:53 - Connected to database is ok!
+2024-11-14 19:38:53 - Server started
+2024-11-14 19:38:53 - Listen socket created
+2024-11-14 19:38:53 - Socket bind err
+2024-11-14 19:42:25 Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-14 19:42:25 Database file path set to: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-14 19:42:25 Port set to: 33333
+2024-11-14 19:42:25 Connected to database is ok!
+2024-11-14 19:42:25 Server started
+2024-11-14 19:42:25 Listen socket created
+2024-11-14 19:42:25 Socket bind err
+2024-11-14 19:50:32 Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-14 19:50:32 Database file path set to: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-14 19:50:32 Port set to: 33333
+2024-11-14 19:50:32 Connected to database is ok!
+2024-11-14 19:50:32 Server started
+2024-11-14 19:50:32 Listen socket created
+2024-11-14 19:50:32 Socket bind err
+2024-11-14 19:56:19 Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-14 19:56:19 Database file path set to: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-14 19:56:19 Port set to: 33333
+2024-11-14 19:56:19 Connected to database is ok!
+2024-11-14 19:56:19 Server started
+2024-11-14 19:56:19 Listen socket created
+2024-11-14 19:56:19 Bind success
+2024-11-14 19:56:49 Client socket created
+2024-11-14 19:56:49 Received authentication message: user6F28B514BADB52D8E28BFA1BE42F6BDC765833CF73DD5B253213BE13CE388AC4B7633621899C5549
+2024-11-14 19:56:49 Auth message parsed. Login: user, Salt: 6F28B514BADB52D8, Client Hash: E28BFA1BE42F6BDC765833CF73DD5B253213BE13CE388AC4B7633621899C5549
+2024-11-14 19:56:49 Calculated expected hash: E28BFA1BE42F6BDC765833CF73DD5B253213BE13CE388AC4B7633621899C5549
+2024-11-14 19:56:49 Authentication successful. Sent OK to client.
+2024-11-14 19:56:49 Vector count received
+2024-11-14 19:56:49 Result of calculating vector sent
+2024-11-14 19:56:49 Result of calculating vector sent
+2024-11-14 19:56:50 Result of calculating vector sent
+2024-11-14 19:56:50 Result of calculating vector sent
+2024-11-14 19:59:01 Client socket created
+2024-11-14 19:59:01 Received authentication message: userBE29ADFEFFA5C8935A218BD9546CFF9277C800D52DF454C3A48B9411B8FC4131F40B11F347432B12
+2024-11-14 19:59:01 Auth message parsed. Login: user, Salt: BE29ADFEFFA5C893, Client Hash: 5A218BD9546CFF9277C800D52DF454C3A48B9411B8FC4131F40B11F347432B12
+2024-11-14 19:59:01 Calculated expected hash: 5A218BD9546CFF9277C800D52DF454C3A48B9411B8FC4131F40B11F347432B12
+2024-11-14 19:59:01 Authentication successful. Sent OK to client.
+2024-11-14 19:59:01 Vector count received
+2024-11-14 19:59:01 [Uncritical error] Received bytes do not match vector size
+2024-11-14 19:59:18 Client socket created
+2024-11-14 19:59:18 Received authentication message: user6C8A3AFAAF06F64699852A7C093829C988D804B1ADFD1FBE479D8A1FE688AC84BA0AEDABA5E83D05
+2024-11-14 19:59:18 Auth message parsed. Login: user, Salt: 6C8A3AFAAF06F646, Client Hash: 99852A7C093829C988D804B1ADFD1FBE479D8A1FE688AC84BA0AEDABA5E83D05
+2024-11-14 19:59:18 Calculated expected hash: 99852A7C093829C988D804B1ADFD1FBE479D8A1FE688AC84BA0AEDABA5E83D05
+2024-11-14 19:59:18 Authentication successful. Sent OK to client.
+2024-11-14 19:59:18 Vector count received
+2024-11-14 19:59:18 [Uncritical error] Received bytes do not match vector size
