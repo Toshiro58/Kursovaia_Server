@@ -114,3 +114,68 @@
 2024-11-14 19:59:18 Authentication successful. Sent OK to client.
 2024-11-14 19:59:18 Vector count received
 2024-11-14 19:59:18 [Uncritical error] Received bytes do not match vector size
+2024-11-21 15:35:51 Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-21 15:35:51 Database file path set to: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-21 15:35:51 Port set to: 33333
+2024-11-21 15:35:51 Connected to database is ok!
+2024-11-21 15:35:51 Server started
+2024-11-21 15:35:51 Listen socket created
+2024-11-21 15:35:51 Bind success
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   2024-11-21 15:40:10 Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-21 15:40:10 Database file path set to: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-21 15:40:10 Port set to: 33333
+2024-11-21 15:40:10 Connected to database is ok!
+2024-11-21 15:40:10 Server started
+2024-11-21 15:40:10 Listen socket created
+2024-11-21 15:40:10 Bind success
+2024-11-21 15:41:12 Client socket created
+2024-11-21 15:41:12 Received authentication message: userF1C85E76E9571A1F33C896DCCA23756E03230F4C2D8D368DF7BFC24D992702A48C0B2AA79D1F2AEE
+2024-11-21 15:41:12 Auth message parsed. Login: user, Salt: F1C85E76E9571A1F, Client Hash: 33C896DCCA23756E03230F4C2D8D368DF7BFC24D992702A48C0B2AA79D1F2AEE
+2024-11-21 15:41:12 Calculated expected hash: 33C896DCCA23756E03230F4C2D8D368DF7BFC24D992702A48C0B2AA79D1F2AEE
+2024-11-21 15:41:12 Authentication successful. Sent OK to client.
+2024-11-21 15:41:12 Vector count received
+2024-11-21 15:41:12 Result of calculating vector sent
+2024-11-21 15:41:12 Result of calculating vector sent
+2024-11-21 15:41:12 Result of calculating vector sent
+2024-11-21 15:41:12 Result of calculating vector sent
+2024-11-27 07:31:47 - Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-27 07:31:47 - Database file path set to: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-27 07:31:47 - Port set to: 33333
+2024-11-27 07:31:47 - Connected to database is ok!
+2024-11-27 07:31:47 - Server started
+2024-11-27 07:31:47 - Listen socket created
+2024-11-27 07:31:47 - Bind success
+2024-11-27 07:32:47 - Client socket created
+2024-11-27 07:32:47 - Received authentication message: userD74EE517A9CE2B4B2E427FB976C50C16A3214997A742C502901DB5B0679C70510C822D3072D15549
+2024-11-27 07:32:47 - Auth message parsed. Login: user, Salt: D74EE517A9CE2B4B, Client Hash: 2E427FB976C50C16A3214997A742C502901DB5B0679C70510C822D3072D15549
+2024-11-27 07:32:47 - Calculated expected hash: 2E427FB976C50C16A3214997A742C502901DB5B0679C70510C822D3072D15549
+2024-11-27 07:32:47 - Authentication successful. Sent OK to client.
+2024-11-27 07:32:47 - Vector count received
+2024-11-27 07:32:47 - Result of calculating vector sent
+2024-11-27 07:32:47 - Result of calculating vector sent
+2024-11-27 07:32:47 - Result of calculating vector sent
+2024-11-27 07:32:47 - Result of calculating vector sent
+2024-11-28 17:50:22 Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-28 17:50:22 Database file path set to: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-28 17:50:22 Port set to: 33333
+2024-11-28 17:50:22 Connected to database is ok!
+2024-11-28 17:50:22 Server started
+2024-11-28 17:50:22 Listen socket created
+2024-11-28 17:50:22 Bind success
+2024-12-10 17:35:04 Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-12-10 17:35:05 Database file path set to: sdsdsdsdsd.txt
+2024-12-10 17:35:05 Port set to: 33333
+2024-12-10 18:30:36 Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-12-10 18:30:36 Database file path set to: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-12-10 18:30:36 Port set to: 33333
+2024-12-10 18:30:36 Connected to database is ok!
+2024-12-10 18:30:36 Server started
+2024-12-10 18:30:36 Listen socket created
+2024-12-10 18:30:36 Bind success
+2024-12-10 18:30:55 Log file path set to: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-12-10 18:30:55 Database file path set to: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-12-10 18:30:55 Port set to: 33333
+2024-12-10 18:30:55 Connected to database is ok!
+2024-12-10 18:30:55 Server started
+2024-12-10 18:30:55 Listen socket created
+2024-12-10 18:30:55 Bind success

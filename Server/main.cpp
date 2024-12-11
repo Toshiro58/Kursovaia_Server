@@ -7,7 +7,7 @@
 #include "Logger.h"
 
 int main(int argc, const char** argv) {
-    std::cout << "Server started" << std::endl;
+    std::cout << "Server starting..." << std::endl;
     Interface interface;
     return interface.comm_proc(argc, argv);
 }

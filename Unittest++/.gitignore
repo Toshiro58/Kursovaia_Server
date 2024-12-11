@@ -1,0 +1,9 @@
+*.o
+*.orig
+Server
+log.*
+l0g.txt
+base.txt
+test_log.txt
+.vscode
+u_test

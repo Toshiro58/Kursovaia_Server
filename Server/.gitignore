@@ -1,0 +1,35 @@
+/build
+/bin
+/logs
+/.idea
+/.vscode
+*.o
+*.obj
+*.exe
+*.so
+*.a
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.idb
+*.zip
+*.tar
+*.gz
+*.bz2
+*.7z
+*.rar
+*.jar
+*.war
+*.ear
+*.swc
+*.swf
+*.apk
+*.ipa
+*.aab
+*.aab Bundle
+*.aab Split
+*.apk Bundle
+*.apk Split
+*.ipa Bundle
+*.ipa Split

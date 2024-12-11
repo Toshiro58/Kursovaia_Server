@@ -1,0 +1,31 @@
+2024-12-11 09:05:56 Log file path set to: udalovskiy
+2024-12-11 09:05:56 Database file path set to: db.txt
+2024-12-11 09:05:56 Port set to: 33333
+2024-12-11 09:05:56 Connected to database successfully!
+2024-12-11 09:05:56 Server started
+2024-12-11 09:05:56 Listen socket created
+2024-12-11 09:05:56 Bind successful
+2024-12-11 09:05:56 Listening on port: 33333
+2024-12-11 09:06:54 Client connected: 127.0.0.1
+2024-12-11 09:06:54 Received authentication message: user49C8E927291DDB01E17D76EAB62D695ECD8F791AB135C39E89739BFF3AFD1D616949F495779253B9
+2024-12-11 09:06:54 Auth message parsed. Login: user, Salt: 49C8E927291DDB01, Client Hash: E17D76EAB62D695ECD8F791AB135C39E89739BFF3AFD1D616949F495779253B9
+2024-12-11 09:06:54 Calculated expected hash: E17D76EAB62D695ECD8F791AB135C39E89739BFF3AFD1D616949F495779253B9
+2024-12-11 09:06:54 Authentication successful. Sent OK to client.
+2024-12-11 09:06:54 Vector count received: 4
+2024-12-11 09:06:54 [Uncritical error] Received bytes do not match vector size
+2024-12-11 09:14:53 Log file path set to: udalovskiy
+2024-12-11 09:14:53 Database file path set to: db.txt
+2024-12-11 09:14:53 Port set to: 33333
+2024-12-11 09:25:32 Log file path set to: udalovskiy
+2024-12-11 09:25:32 Database file path set to: db.txt
+2024-12-11 09:25:32 Port set to: 33333
+2024-12-11 09:25:32 Connected to database successfully!
+2024-12-11 09:25:32 Server started
+2024-12-11 09:25:32 Listen socket created
+2024-12-11 09:25:32 Bind successful
+2024-12-11 09:25:32 Listening on port: 33333
+2024-12-11 09:25:38 Client connected: 127.0.0.1
+2024-12-11 09:25:38 Received authentication message: user41A8A60526B4E3079916FA4AE9A29156FDEF33FC41C274E01121CA7C4DC8D1402C366243DDCA04E2
+2024-12-11 09:25:38 Auth message parsed. Login: user, Salt: 41A8A60526B4E307, Client Hash: 9916FA4AE9A29156FDEF33FC41C274E01121CA7C4DC8D1402C366243DDCA04E2
+2024-12-11 09:25:38 Calculated expected hash: 115752C8EC3F26D5C60D9985FF58BD9454F542660D713838F9B1171C2FD2195A
+2024-12-11 09:25:38 [Uncritical] Authentication error

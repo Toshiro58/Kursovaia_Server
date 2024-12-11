@@ -6,21 +6,21 @@
 #include <boost/program_options.hpp>
 #include <iostream>
 #include <string>
-#include <fstream>
 
 namespace po = boost::program_options;
 
-int Interface::comm_proc(int argc, const char** argv) {
+int Interface::comm_proc(int argc, const char** argv)
+{
     struct Config {
         int port = 33333;
-        std::string logfile = "/etc/vcalc.log";
-        std::string basefile = "/var/log/vcalc.log";
+        std::string logfile = "/home/stud/local_git/Kursovaia_Server/test/log.txt";
+        std::string basefile = "/home/stud/local_git/Kursovaia_Server/test/base.txt";
     } config;
 
     try {
-        po::options_description opts("Parameters for using the server");
+        po::options_description opts("Parametrs for using the server");
         opts.add_options()
-            ("help,h", "Usage help information")
+            ("help,h", "Usage help infirmation")
             ("basefile,b", po::value<std::string>(&config.basefile), "Path to database file")
             ("logfile,l", po::value<std::string>(&config.logfile), "Path to log file")
             ("PORT,p", po::value<int>(&config.port), "Port for server");
@@ -38,29 +38,6 @@ int Interface::comm_proc(int argc, const char** argv) {
             throw crit_err("Incorrect port");
         }
 
-        // Check and create files in /tmp if necessary
-        std::ofstream file;
-        file.open(config.logfile, std::ios::app);
-
-        if (!file.is_open()) {
-            config.logfile = "/tmp/vcalc.log";
-            file.open(config.logfile, std::ios::app);
-            if (!file.is_open()) {
-                throw crit_err("Unable to create log file");
-            }
-        }
-        file.close();
-
-        file.open(config.basefile, std::ios::app);
-        if (!file.is_open()) {
-            config.basefile = "/tmp/vcalc-db.log";
-            file.open(config.basefile, std::ios::app);
-            if (!file.is_open()) {
-                throw crit_err("Unable to create database file");
-            }
-        }
-        file.close();
-
         Logger logger(config.logfile);
         logger.writelog("Log file path set to: " + config.logfile);
         logger.writelog("Database file path set to: " + config.basefile);
@@ -68,7 +45,7 @@ int Interface::comm_proc(int argc, const char** argv) {
 
         Connector_to_base connector;
         connector.connect_to_base(config.basefile);
-        logger.writelog("Connected to database successfully!");
+        logger.writelog("Connected to database is ok!");
         logger.writelog("Server started");
 
         Client_Communicate clientComm;
