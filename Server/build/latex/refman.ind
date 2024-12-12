@@ -1,0 +1,79 @@
+\begin{theindex}
+
+  \item {Calculator}, \hyperpage{7}
+    \subitem {Calculator}, \hyperpage{7}
+    \subitem {send\_res}, \hyperpage{8}
+  \item {Calculator.h}, \hyperpage{19}
+  \item {Client\_Communicate}, \hyperpage{8}
+    \subitem {connection}, \hyperpage{9}
+    \subitem {generate\_salt}, \hyperpage{9}
+    \subitem {sha256}, \hyperpage{9}
+  \item {Client\_Communicate.h}, \hyperpage{21}
+  \item {comm\_proc}
+    \subitem {Interface}, \hyperpage{13}
+  \item {connect\_to\_base}
+    \subitem {Connector\_to\_base}, \hyperpage{10}
+  \item {connection}
+    \subitem {Client\_Communicate}, \hyperpage{9}
+  \item {Connector\_to\_base}, \hyperpage{10}
+    \subitem {connect\_to\_base}, \hyperpage{10}
+    \subitem {get\_data}, \hyperpage{11}
+  \item {Connector\_to\_base.h}, \hyperpage{22}
+  \item {crit\_err}, \hyperpage{11}
+    \subitem {crit\_err}, \hyperpage{12}
+
+  \indexspace
+
+  \item {Errors.h}, \hyperpage{24}
+
+  \indexspace
+
+  \item {generate\_salt}
+    \subitem {Client\_Communicate}, \hyperpage{9}
+  \item {get\_data}
+    \subitem {Connector\_to\_base}, \hyperpage{11}
+  \item {getCurrentDateTime}
+    \subitem {Logger}, \hyperpage{14}
+
+  \indexspace
+
+  \item {Interface}, \hyperpage{12}
+    \subitem {comm\_proc}, \hyperpage{13}
+  \item {Interface.h}, \hyperpage{25}
+
+  \indexspace
+
+  \item {Logger}, \hyperpage{13}
+    \subitem {getCurrentDateTime}, \hyperpage{14}
+    \subitem {Logger}, \hyperpage{14}
+    \subitem {set\_path}, \hyperpage{14}
+    \subitem {writelog}, \hyperpage{15}
+  \item {Logger.h}, \hyperpage{27}
+
+  \indexspace
+
+  \item {main}
+    \subitem {main.cpp}, \hyperpage{29}
+  \item {main.cpp}, \hyperpage{28}
+    \subitem {main}, \hyperpage{29}
+
+  \indexspace
+
+  \item {no\_crit\_err}, \hyperpage{15}
+    \subitem {no\_crit\_err}, \hyperpage{16}
+
+  \indexspace
+
+  \item {send\_res}
+    \subitem {Calculator}, \hyperpage{8}
+  \item {set\_path}
+    \subitem {Logger}, \hyperpage{14}
+  \item {sha256}
+    \subitem {Client\_Communicate}, \hyperpage{9}
+
+  \indexspace
+
+  \item {writelog}
+    \subitem {Logger}, \hyperpage{15}
+
+\end{theindex}

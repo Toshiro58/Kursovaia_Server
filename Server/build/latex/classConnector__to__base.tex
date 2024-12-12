@@ -1,0 +1,67 @@
+\hypertarget{classConnector__to__base}{}\doxysection{Класс Connector\+\_\+to\+\_\+base}
+\label{classConnector__to__base}\index{Connector\_to\_base@{Connector\_to\_base}}
+
+
+Управляет подключениями к базе данных  
+
+
+
+
+{\ttfamily \#include $<$Connector\+\_\+to\+\_\+base.\+h$>$}
+
+\doxysubsection*{Открытые члены}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{classConnector__to__base_a3bf70caa5e9f0d400d68cd9c2c249120}{connect\+\_\+to\+\_\+base}} (std\+::string base\+\_\+file=\char`\"{}/home/stud/local\+\_\+git/Kursovaia\+\_\+\+Server/test/base.\+txt\char`\"{})
+\begin{DoxyCompactList}\small\item\em Подключается к базе данных \end{DoxyCompactList}\item 
+std\+::map$<$ std\+::string, std\+::string $>$ \mbox{\hyperlink{classConnector__to__base_a7aeede5309284fbd0434c33d8488c981}{get\+\_\+data}} ()
+\begin{DoxyCompactList}\small\item\em Получает данные из базы данных \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Закрытые данные}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classConnector__to__base_a6ed32b9f6d441697960d5ae9826588e7}\label{classConnector__to__base_a6ed32b9f6d441697960d5ae9826588e7}} 
+std\+::map$<$ std\+::string, std\+::string $>$ {\bfseries data\+\_\+base}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Подробное описание}
+Управляет подключениями к базе данных 
+
+\doxysubsection{Методы}
+\mbox{\Hypertarget{classConnector__to__base_a3bf70caa5e9f0d400d68cd9c2c249120}\label{classConnector__to__base_a3bf70caa5e9f0d400d68cd9c2c249120}} 
+\index{Connector\_to\_base@{Connector\_to\_base}!connect\_to\_base@{connect\_to\_base}}
+\index{connect\_to\_base@{connect\_to\_base}!Connector\_to\_base@{Connector\_to\_base}}
+\doxysubsubsection{\texorpdfstring{connect\_to\_base()}{connect\_to\_base()}}
+{\footnotesize\ttfamily int Connector\+\_\+to\+\_\+base\+::connect\+\_\+to\+\_\+base (\begin{DoxyParamCaption}\item[{std\+::string}]{base\+\_\+file = {\ttfamily \char`\"{}/home/stud/local\+\_\+git/Kursovaia\+\_\+Server/test/base.txt\char`\"{}} }\end{DoxyParamCaption})}
+
+
+
+Подключается к базе данных 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em base\+\_\+file} & Путь к файлу базы данных \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Код состояния подключения 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classConnector__to__base_a7aeede5309284fbd0434c33d8488c981}\label{classConnector__to__base_a7aeede5309284fbd0434c33d8488c981}} 
+\index{Connector\_to\_base@{Connector\_to\_base}!get\_data@{get\_data}}
+\index{get\_data@{get\_data}!Connector\_to\_base@{Connector\_to\_base}}
+\doxysubsubsection{\texorpdfstring{get\_data()}{get\_data()}}
+{\footnotesize\ttfamily std\+::map$<$ std\+::string, std\+::string $>$ Connector\+\_\+to\+\_\+base\+::get\+\_\+data (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Получает данные из базы данных 
+
+\begin{DoxyReturn}{Возвращает}
+Карта, содержащая записи базы данных 
+\end{DoxyReturn}
+
+
+Объявления и описания членов классов находятся в файлах\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{Connector__to__base_8h}{Connector\+\_\+to\+\_\+base.\+h}}\item 
+Connector\+\_\+to\+\_\+base.\+cpp\end{DoxyCompactItemize}

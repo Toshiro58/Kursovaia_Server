@@ -1,0 +1,22 @@
+\hypertarget{Client__Communicate_8h_source}{}\doxysection{Client\+\_\+\+Communicate.\+h}
+\mbox{\hyperlink{Client__Communicate_8h}{См. документацию.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#pragma once}}
+\DoxyCodeLine{10 \textcolor{preprocessor}{\#include <string>}}
+\DoxyCodeLine{11 \textcolor{preprocessor}{\#include <vector>}}
+\DoxyCodeLine{12 \textcolor{preprocessor}{\#include <map>}}
+\DoxyCodeLine{13 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{Logger_8h}{Logger.h}}"{}}}
+\DoxyCodeLine{14 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{Errors_8h}{Errors.h}}"{}}}
+\DoxyCodeLine{15 \textcolor{preprocessor}{\#include <openssl/evp.h>}}
+\DoxyCodeLine{16 }
+\DoxyCodeLine{20 \textcolor{keyword}{class }\mbox{\hyperlink{classClient__Communicate}{Client\_Communicate}} \{}
+\DoxyCodeLine{21 \textcolor{keyword}{public}:}
+\DoxyCodeLine{26     \textcolor{keyword}{static} std::string \mbox{\hyperlink{classClient__Communicate_a780a9a8db7ee47d5908cf8246f343ed6}{sha256}}(std::string input\_str);}
+\DoxyCodeLine{27 }
+\DoxyCodeLine{31     \textcolor{keyword}{static} std::string \mbox{\hyperlink{classClient__Communicate_ab7c96c0d1543a25301210e8f3e3de7d8}{generate\_salt}}();}
+\DoxyCodeLine{32 }
+\DoxyCodeLine{39     \textcolor{keywordtype}{int} \mbox{\hyperlink{classClient__Communicate_ae7087a313c4e249a9b2741740595e922}{connection}}(\textcolor{keywordtype}{int} port, std::map<std::string, std::string> database, \mbox{\hyperlink{classLogger}{Logger}}* l1);}
+\DoxyCodeLine{40 \};}
+
+\end{DoxyCode}

@@ -1,0 +1,23 @@
+\hypertarget{Logger_8h_source}{}\doxysection{Logger.\+h}
+\mbox{\hyperlink{Logger_8h}{См. документацию.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#pragma once}}
+\DoxyCodeLine{10 \textcolor{preprocessor}{\#include <string>}}
+\DoxyCodeLine{11 }
+\DoxyCodeLine{15 \textcolor{keyword}{class }\mbox{\hyperlink{classLogger}{Logger}} \{}
+\DoxyCodeLine{20     \textcolor{keyword}{static} std::string \mbox{\hyperlink{classLogger_ad4708fddf9f361648e3a85f40a1e8813}{getCurrentDateTime}}(std::string s);}
+\DoxyCodeLine{21 }
+\DoxyCodeLine{22     std::string path\_to\_logfile;}
+\DoxyCodeLine{23 }
+\DoxyCodeLine{24 \textcolor{keyword}{public}:}
+\DoxyCodeLine{29     \textcolor{keywordtype}{int} \mbox{\hyperlink{classLogger_a6297ea9109e9dd5e5e0479e0505d1b28}{writelog}}(std::string s);}
+\DoxyCodeLine{30 }
+\DoxyCodeLine{35     \textcolor{keywordtype}{int} \mbox{\hyperlink{classLogger_abe4511220b1a16c77872deaf1fc6df55}{set\_path}}(std::string path\_file);}
+\DoxyCodeLine{36 }
+\DoxyCodeLine{38     \mbox{\hyperlink{classLogger_abc41bfb031d896170c7675fa96a6b30c}{Logger}}() \{ path\_to\_logfile = \textcolor{stringliteral}{"{} "{}}; \};}
+\DoxyCodeLine{39 }
+\DoxyCodeLine{43     \mbox{\hyperlink{classLogger_a9535ccda1f9e9ebe4bf017283d68e695}{Logger}}(std::string s) \{ path\_to\_logfile = s; \};}
+\DoxyCodeLine{44 \};}
+
+\end{DoxyCode}

@@ -1,0 +1,88 @@
+\hypertarget{classClient__Communicate}{}\doxysection{Класс Client\+\_\+\+Communicate}
+\label{classClient__Communicate}\index{Client\_Communicate@{Client\_Communicate}}
+
+
+Класс для управления коммуникацией клиента  
+
+
+
+
+{\ttfamily \#include $<$Client\+\_\+\+Communicate.\+h$>$}
+
+\doxysubsection*{Открытые члены}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{classClient__Communicate_ae7087a313c4e249a9b2741740595e922}{connection}} (int port, std\+::map$<$ std\+::string, std\+::string $>$ database, \mbox{\hyperlink{classLogger}{Logger}} $\ast$l1)
+\begin{DoxyCompactList}\small\item\em Управляет попыткой подключения \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Открытые статические члены}
+\begin{DoxyCompactItemize}
+\item 
+static std\+::string \mbox{\hyperlink{classClient__Communicate_a780a9a8db7ee47d5908cf8246f343ed6}{sha256}} (std\+::string input\+\_\+str)
+\begin{DoxyCompactList}\small\item\em Вычисляет SHA-\/256 хеш строки \end{DoxyCompactList}\item 
+static std\+::string \mbox{\hyperlink{classClient__Communicate_ab7c96c0d1543a25301210e8f3e3de7d8}{generate\+\_\+salt}} ()
+\begin{DoxyCompactList}\small\item\em Генерирует случайную соль \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Подробное описание}
+Класс для управления коммуникацией клиента 
+
+\doxysubsection{Методы}
+\mbox{\Hypertarget{classClient__Communicate_ae7087a313c4e249a9b2741740595e922}\label{classClient__Communicate_ae7087a313c4e249a9b2741740595e922}} 
+\index{Client\_Communicate@{Client\_Communicate}!connection@{connection}}
+\index{connection@{connection}!Client\_Communicate@{Client\_Communicate}}
+\doxysubsubsection{\texorpdfstring{connection()}{connection()}}
+{\footnotesize\ttfamily int Client\+\_\+\+Communicate\+::connection (\begin{DoxyParamCaption}\item[{int}]{port,  }\item[{std\+::map$<$ std\+::string, std\+::string $>$}]{database,  }\item[{\mbox{\hyperlink{classLogger}{Logger}} $\ast$}]{l1 }\end{DoxyParamCaption})}
+
+
+
+Управляет попыткой подключения 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em port} & Порт для подключения \\
+\hline
+{\em database} & Карта, представляющая базу данных \\
+\hline
+{\em l1} & Объект логгера для записи логов \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Код состояния операции подключения 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classClient__Communicate_ab7c96c0d1543a25301210e8f3e3de7d8}\label{classClient__Communicate_ab7c96c0d1543a25301210e8f3e3de7d8}} 
+\index{Client\_Communicate@{Client\_Communicate}!generate\_salt@{generate\_salt}}
+\index{generate\_salt@{generate\_salt}!Client\_Communicate@{Client\_Communicate}}
+\doxysubsubsection{\texorpdfstring{generate\_salt()}{generate\_salt()}}
+{\footnotesize\ttfamily std\+::string Client\+\_\+\+Communicate\+::generate\+\_\+salt (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Генерирует случайную соль 
+
+\begin{DoxyReturn}{Возвращает}
+Сгенерированная строка соли 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classClient__Communicate_a780a9a8db7ee47d5908cf8246f343ed6}\label{classClient__Communicate_a780a9a8db7ee47d5908cf8246f343ed6}} 
+\index{Client\_Communicate@{Client\_Communicate}!sha256@{sha256}}
+\index{sha256@{sha256}!Client\_Communicate@{Client\_Communicate}}
+\doxysubsubsection{\texorpdfstring{sha256()}{sha256()}}
+{\footnotesize\ttfamily std\+::string Client\+\_\+\+Communicate\+::sha256 (\begin{DoxyParamCaption}\item[{std\+::string}]{input\+\_\+str }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Вычисляет SHA-\/256 хеш строки 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em input\+\_\+str} & Строка для хеширования \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+SHA-\/256 хеш 
+\end{DoxyReturn}
+
+
+Объявления и описания членов классов находятся в файлах\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{Client__Communicate_8h}{Client\+\_\+\+Communicate.\+h}}\item 
+Client\+\_\+\+Communicate.\+cpp\end{DoxyCompactItemize}
