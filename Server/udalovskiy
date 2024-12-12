@@ -41,3 +41,86 @@
 2024-12-12 10:15:16 Received authentication message: user21FB2B7CEDADFAC9B145B2D3B6F5D7BEF18F4537699CC2CA5356AACE07CBB18A684C6CA419A59711
 2024-12-12 10:15:16 Auth message parsed. Login: user, Salt: 21FB2B7CEDADFAC9, Client Hash: B145B2D3B6F5D7BEF18F4537699CC2CA5356AACE07CBB18A684C6CA419A59711
 2024-12-12 10:15:16 [Uncritical] Unknown login ID or empty password
+2024-12-12 16:18:06 Log file path set to: udalovskiy
+2024-12-12 16:18:06 Database file path set to: db.txt
+2024-12-12 16:18:06 Port set to: 33333
+2024-12-12 16:18:06 Connected to database successfully!
+2024-12-12 16:18:06 Server started
+2024-12-12 16:18:06 Listen socket created
+2024-12-12 16:18:06 Bind successful
+2024-12-12 16:18:06 Listening on port: 33333
+2024-12-12 16:18:21 Client connected: 127.0.0.1
+2024-12-12 16:18:21 Received authentication message: user798D4CA15CF3E0EE3D6644A18E236C8C25656A98CB5F983B757A498DAD9F33D04C48FDF772EF2C1C
+2024-12-12 16:18:21 Auth message parsed. Login: user, Salt: 798D4CA15CF3E0EE, Client Hash: 3D6644A18E236C8C25656A98CB5F983B757A498DAD9F33D04C48FDF772EF2C1C
+2024-12-12 16:18:21 Calculated expected hash: 3D6644A18E236C8C25656A98CB5F983B757A498DAD9F33D04C48FDF772EF2C1C
+2024-12-12 16:18:21 Authentication successful. Sent OK to client.
+2024-12-12 16:18:21 Vector count received: 4
+2024-12-12 16:18:21 [Uncritical error] Received bytes do not match vector size
+2024-12-12 16:18:27 Client connected: 127.0.0.1
+2024-12-12 16:18:27 Received authentication message: userAF7C95C73FA167183FAD9C46FE642693A91B8E711717151A17B681F3F43EEAEEADA15391976A26CD
+2024-12-12 16:18:27 Auth message parsed. Login: user, Salt: AF7C95C73FA16718, Client Hash: 3FAD9C46FE642693A91B8E711717151A17B681F3F43EEAEEADA15391976A26CD
+2024-12-12 16:18:27 Calculated expected hash: 3FAD9C46FE642693A91B8E711717151A17B681F3F43EEAEEADA15391976A26CD
+2024-12-12 16:18:27 Authentication successful. Sent OK to client.
+2024-12-12 16:18:27 Vector count received: 4
+2024-12-12 16:18:27 Result of calculating vector sent
+2024-12-12 16:18:27 Result of calculating vector sent
+2024-12-12 16:18:27 Result of calculating vector sent
+2024-12-12 16:18:27 Result of calculating vector sent
+2024-12-12 16:18:43 Log file path set to: udalovskiy
+2024-12-12 16:18:43 Database file path set to: db.txt
+2024-12-12 16:18:43 Port set to: 23233
+2024-12-12 16:18:43 Connected to database successfully!
+2024-12-12 16:18:43 Server started
+2024-12-12 16:18:43 Listen socket created
+2024-12-12 16:18:43 Bind successful
+2024-12-12 16:18:43 Listening on port: 23233
+2024-12-12 16:19:45 Log file path set to: udalovskiy
+2024-12-12 16:19:45 Database file path set to: db.txt
+2024-12-12 16:19:45 Port set to: 33333
+2024-12-12 16:19:45 Connected to database successfully!
+2024-12-12 16:19:45 Server started
+2024-12-12 16:19:45 Listen socket created
+2024-12-12 16:19:45 Bind successful
+2024-12-12 16:19:45 Listening on port: 33333
+2024-12-12 16:19:51 Client connected: 127.0.0.1
+2024-12-12 16:19:51 Received authentication message: userB02D080FDB3CE7FB2D3393FF17CA050FC89671DA3CC0F04600304C2DF7CF2F73F766043F2A2362CC
+2024-12-12 16:19:51 Auth message parsed. Login: user, Salt: B02D080FDB3CE7FB, Client Hash: 2D3393FF17CA050FC89671DA3CC0F04600304C2DF7CF2F73F766043F2A2362CC
+2024-12-12 16:19:51 Calculated expected hash: 2D3393FF17CA050FC89671DA3CC0F04600304C2DF7CF2F73F766043F2A2362CC
+2024-12-12 16:19:51 Authentication successful. Sent OK to client.
+2024-12-12 16:19:51 Vector count received: 4
+2024-12-12 16:19:51 [Uncritical error] Received bytes do not match vector size
+2024-12-12 16:19:54 Client connected: 127.0.0.1
+2024-12-12 16:19:54 Received authentication message: user6B0F445D0E1C4FD0EDB053D61C0A012F4C204F29D038C25C92C036D68EFA1800EBDDCF878E0A4ABF
+2024-12-12 16:19:54 Auth message parsed. Login: user, Salt: 6B0F445D0E1C4FD0, Client Hash: EDB053D61C0A012F4C204F29D038C25C92C036D68EFA1800EBDDCF878E0A4ABF
+2024-12-12 16:19:54 Calculated expected hash: EDB053D61C0A012F4C204F29D038C25C92C036D68EFA1800EBDDCF878E0A4ABF
+2024-12-12 16:19:54 Authentication successful. Sent OK to client.
+2024-12-12 16:19:54 Vector count received: 4
+2024-12-12 16:19:54 Result of calculating vector sent
+2024-12-12 16:19:54 Result of calculating vector sent
+2024-12-12 16:19:54 Result of calculating vector sent
+2024-12-12 16:19:54 Result of calculating vector sent
+2024-12-12 16:22:33 Log file path set to: udalovskiy
+2024-12-12 16:22:33 Database file path set to: db.txt
+2024-12-12 16:22:33 Port set to: 33333
+2024-12-12 16:22:33 Connected to database successfully!
+2024-12-12 16:22:33 Server started
+2024-12-12 16:22:33 Listen socket created
+2024-12-12 16:22:33 Bind successful
+2024-12-12 16:22:33 Listening on port: 33333
+2024-12-12 16:22:41 Client connected: 127.0.0.1
+2024-12-12 16:22:41 Received authentication message: userD6BF5E93413854578C58AF8F4E15DD9D157E49FD446E2D92BB058C350FDE3B2D3A01B71837119BAE
+2024-12-12 16:22:41 Auth message parsed. Login: user, Salt: D6BF5E9341385457, Client Hash: 8C58AF8F4E15DD9D157E49FD446E2D92BB058C350FDE3B2D3A01B71837119BAE
+2024-12-12 16:22:41 Calculated expected hash: 8C58AF8F4E15DD9D157E49FD446E2D92BB058C350FDE3B2D3A01B71837119BAE
+2024-12-12 16:22:41 Authentication successful. Sent OK to client.
+2024-12-12 16:22:41 Vector count received: 4
+2024-12-12 16:22:41 Result of calculating vector sent
+2024-12-12 16:22:41 Result of calculating vector sent
+2024-12-12 16:22:41 Result of calculating vector sent
+2024-12-12 16:22:41 Result of calculating vector sent
+2024-12-12 16:22:43 Client connected: 127.0.0.1
+2024-12-12 16:22:43 Received authentication message: userB9CDF081386FD9251574AC6B167D7738C970DD22A513326C82862DEA17836DAD2255049D5723BBC7
+2024-12-12 16:22:43 Auth message parsed. Login: user, Salt: B9CDF081386FD925, Client Hash: 1574AC6B167D7738C970DD22A513326C82862DEA17836DAD2255049D5723BBC7
+2024-12-12 16:22:43 Calculated expected hash: 1574AC6B167D7738C970DD22A513326C82862DEA17836DAD2255049D5723BBC7
+2024-12-12 16:22:43 Authentication successful. Sent OK to client.
+2024-12-12 16:22:43 Vector count received: 4
+2024-12-12 16:22:44 [Uncritical error] Received bytes do not match vector size
