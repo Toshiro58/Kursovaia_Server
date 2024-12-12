@@ -12,7 +12,7 @@ namespace po = boost::program_options;
 
 int Interface::comm_proc(int argc, const char** argv) {
     struct Config {
-        int port = 33333;
+        int port = 33333;  
         std::string logfile = "/etc/vcalc.log";
         std::string basefile = "/var/log/vcalc.log";
     } config;
@@ -21,9 +21,9 @@ int Interface::comm_proc(int argc, const char** argv) {
         po::options_description opts("Parameters for using the server");
         opts.add_options()
             ("help,h", "Usage help information")
-            ("basefile,b", po::value<std::string>(&config.basefile), "Path to database file")
-            ("logfile,l", po::value<std::string>(&config.logfile), "Path to log file")
-            ("PORT,p", po::value<int>(&config.port), "Port for server");
+            ("basefile,b", po::value<std::string>(&config.basefile)->default_value(config.basefile), "Path to database file (default: /var/log/vcalc.log)")
+            ("logfile,l", po::value<std::string>(&config.logfile)->default_value(config.logfile), "Path to log file (default: /etc/vcalc.log)")
+            ("PORT,p", po::value<int>(&config.port)->default_value(config.port), "Port for server (default: 33333)");
 
         po::variables_map vm;
         po::store(po::parse_command_line(argc, argv, opts), vm);
@@ -35,14 +35,14 @@ int Interface::comm_proc(int argc, const char** argv) {
         }
 
         if (config.port < 1024 || config.port > 65535) {
-            throw crit_err("Incorrect port");
+            throw crit_err("Port must be between 1024 and 65535");
         }
 
-        // Check and create files in /tmp if necessary
         std::ofstream file;
         file.open(config.logfile, std::ios::app);
 
         if (!file.is_open()) {
+            std::cerr << "Cannot write to default log path. Using /tmp/vcalc.log instead.\n";
             config.logfile = "/tmp/vcalc.log";
             file.open(config.logfile, std::ios::app);
             if (!file.is_open()) {
@@ -53,6 +53,7 @@ int Interface::comm_proc(int argc, const char** argv) {
 
         file.open(config.basefile, std::ios::app);
         if (!file.is_open()) {
+            std::cerr << "Cannot write to default database path. Using /tmp/vcalc-db.log instead.\n";
             config.basefile = "/tmp/vcalc-db.log";
             file.open(config.basefile, std::ios::app);
             if (!file.is_open()) {

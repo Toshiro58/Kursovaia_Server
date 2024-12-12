@@ -1,0 +1,12 @@
+2024-12-12 14:16:25 Log file path set to: sverch
+2024-12-12 14:16:25 Database file path set to: db.txt
+2024-12-12 14:16:25 Port set to: 33333
+2024-12-12 14:16:25 Connected to database successfully!
+2024-12-12 14:16:25 Server started
+2024-12-12 14:16:25 Listen socket created
+2024-12-12 14:16:25 Bind successful
+2024-12-12 14:16:25 Listening on port: 33333
+2024-12-12 14:16:58 Client connected: 127.0.0.1
+2024-12-12 14:16:58 Received authentication message: userB456AF58E7264054148AAB13E86E63A9CB7EE185869D602B6CE007BF9D2D1F261EBA3991DD1101C3
+2024-12-12 14:16:58 Auth message parsed. Login: user, Salt: B456AF58E7264054, Client Hash: 148AAB13E86E63A9CB7EE185869D602B6CE007BF9D2D1F261EBA3991DD1101C3
+2024-12-12 14:16:58 [Uncritical] Unknown login ID or empty password
