@@ -34,13 +34,14 @@ int Interface::comm_proc(int argc, const char** argv) {
             return 0;
         }
 
-        if (config.port < 1024 || config.port > 65535) {
-            throw crit_err("Port must be between 1024 and 65535");
+        if (config.port != 33333) {
+            std::cerr << "Critical error: Incorrect port. The server must be run on port 33333.\n";
+            return 1;
         }
 
         std::ofstream file;
         file.open(config.logfile, std::ios::app);
-
+        
         if (!file.is_open()) {
             std::cerr << "Cannot write to default log path. Using /tmp/vcalc.log instead.\n";
             config.logfile = "/tmp/vcalc.log";
