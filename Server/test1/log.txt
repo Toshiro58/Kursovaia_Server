@@ -1,0 +1,155 @@
+2024-10-31 19:42:28 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-10-31 19:42:28 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-10-31 19:42:28 Port set value: 33333
+2024-10-31 19:42:28 Connect to database success!
+2024-10-31 19:42:28 Server started
+2024-10-31 19:42:28 listen socket created
+2024-10-31 19:42:28 bind success
+2024-10-31 19:52:07 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-10-31 19:52:07 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-10-31 19:52:07 Port set value: 33333
+2024-10-31 19:52:07 Connect to database success!
+2024-10-31 19:52:07 Server started
+2024-10-31 19:52:07 listen socket created
+2024-10-31 19:52:07 bind success
+2024-10-31 20:00:32 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-10-31 20:00:32 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-10-31 20:00:32 Port set value: 33333
+2024-10-31 20:00:32 Connect to database success!
+2024-10-31 20:00:32 Server started
+2024-10-31 20:00:32 listen socket created
+2024-10-31 20:00:32 bind success
+2024-10-31 20:08:03 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-10-31 20:08:03 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-10-31 20:08:03 Port set value: 33333
+2024-10-31 20:08:03 Connect to database success!
+2024-10-31 20:08:03 Server started
+2024-10-31 20:08:03 listen socket created
+2024-10-31 20:08:03 Socket bind err
+2024-10-31 20:30:26 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-10-31 20:30:26 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-10-31 20:30:26 Port set value: 33333
+2024-10-31 20:30:26 Connect to database success!
+2024-10-31 20:30:26 Server started
+2024-10-31 20:30:26 listen socket created
+2024-10-31 20:30:26 bind success
+2024-10-31 21:02:55 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-10-31 21:02:55 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-10-31 21:02:55 Port set value: 33333
+2024-10-31 21:02:55 Connect to database success!
+2024-10-31 21:02:55 Server started
+2024-10-31 21:02:55 listen socket created
+2024-10-31 21:02:55 bind success
+2024-10-31 21:19:07 Client socket created
+2024-10-31 21:19:07 [Uncritical]Invalid auth message format
+2024-10-31 21:40:13 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-10-31 21:40:13 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-10-31 21:40:13 Port set value: 33333
+2024-10-31 21:40:13 Connect to database success!
+2024-10-31 21:40:13 Server started
+2024-10-31 21:40:13 listen socket created
+2024-10-31 21:40:13 bind success
+2024-10-31 21:41:35 Client socket created
+2024-10-31 21:41:35 [Uncritical]Invalid auth message format
+2024-11-11 16:57:41 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-11 16:57:41 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-11 16:57:41 Port set value: 33333
+2024-11-11 16:57:41 Connect to database success!
+2024-11-11 16:57:41 Server started
+2024-11-11 16:57:41 listen socket created
+2024-11-11 16:57:41 bind success
+2024-11-11 17:03:07 Client socket created
+2024-11-11 17:03:07 [Uncritical]Invalid auth message format
+2024-11-11 17:39:21 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-11 17:39:21 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-11 17:39:21 Port set value: 33333
+2024-11-11 17:39:21 Connect to database success!
+2024-11-11 17:39:21 Server started
+2024-11-11 17:39:21 listen socket created
+2024-11-11 17:39:21 bind success
+2024-11-11 17:40:13 Client socket created
+2024-11-11 17:40:13 [Uncritical]Invalid auth message format
+2024-11-11 17:44:43 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-11 17:44:43 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-11 17:44:43 Port set value: 33333
+2024-11-11 17:44:43 Connect to database success!
+2024-11-11 17:44:43 Server started
+2024-11-11 17:44:43 listen socket created
+2024-11-11 17:44:43 bind success
+2024-11-11 17:45:32 Client socket created
+2024-11-11 17:45:32 Received authentication message: user454C1218B15D284FCFEA5F0856863243EF73485D6CD5F530BC32EC4896798B1444661CB408F6740B
+2024-11-11 17:45:32 [Uncritical]Invalid auth message format
+2024-11-11 17:55:38 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-11 17:55:38 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-11 17:55:38 Port set value: 33333
+2024-11-11 17:55:38 Connect to database success!
+2024-11-11 17:55:38 Server started
+2024-11-11 17:55:38 listen socket created
+2024-11-11 17:55:38 bind success
+2024-11-11 17:56:14 Client socket created
+2024-11-11 17:56:14 Received authentication message: user2275D59336DD62382818FB232198FE5B1F29B315E7DFB1E9E56019671D3E1F520789F57B98055F40
+2024-11-11 17:56:14 [Uncritical]Invalid auth message format
+2024-11-11 19:11:28 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-11 19:11:28 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-11 19:11:28 Port set value: 33333
+2024-11-11 19:11:28 Connect to database success!
+2024-11-11 19:11:28 Server started
+2024-11-11 19:11:28 listen socket created
+2024-11-11 19:11:28 bind success
+2024-11-11 19:12:00 Client socket created
+2024-11-11 19:12:00 Received authentication message: userFE5112A6E9D8FA8B2119033BF28F60BF29C1C18F317AB51C9F4412A4680C6906220A5574AA6C0411
+2024-11-11 19:12:00 [Uncritical]Invalid auth message format
+2024-11-11 19:22:55 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-11 19:22:55 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-11 19:22:55 Port set value: 33333
+2024-11-11 19:22:55 Connect to database success!
+2024-11-11 19:22:55 Server started
+2024-11-11 19:22:55 Listen socket created
+2024-11-11 19:22:55 Bind success
+2024-11-11 19:23:11 Client socket created
+2024-11-11 19:23:11 Received authentication message: user7E488A9C254325186B67D705B9712EABABC263445A252CEED370A76F759A3549D5EBD570EEF3FC8C
+2024-11-11 19:23:11 [Uncritical] Invalid auth message format
+2024-11-11 20:59:02 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-11 20:59:02 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-11 20:59:02 Port set value: 33333
+2024-11-11 20:59:02 Connect to database success!
+2024-11-11 20:59:02 Server started
+2024-11-11 20:59:02 listen socket created
+2024-11-11 20:59:02 bind success
+2024-11-11 21:03:03 Client socket created
+2024-11-11 21:03:03 Received authentication message: userD2E8E4D4F52F18AA4B68308981971655493DB15E2390363F631A101307C002C297A805BE711E40ED
+2024-11-11 21:03:03 [Uncritical]Invalid auth message format
+2024-11-13 13:28:16 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-13 13:28:16 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-13 13:28:16 Port set value: 33333
+2024-11-13 13:28:16 Connect to database success!
+2024-11-13 13:28:16 Server started
+2024-11-13 13:28:16 listen socket created
+2024-11-13 13:28:16 bind success
+2024-11-13 13:29:02 Client socket created
+2024-11-13 13:29:02 Received authentication message: userE6A8D5AA5883C6C4A9F17C2016C7109375B1C859932B416A7ACC8F7A5EF2D9935CB6E0D4C8E9DB26
+2024-11-13 13:29:02 Auth message parsed. Login: user, Salt: E6A8D5AA5883C6C4, Client Hash: A9F17C2016C7109375B1C859932B416A7ACC8F7A5EF2D9935CB6E0D4C8E9DB26
+2024-11-13 13:29:02 Calculated expected hash: A9F17C2016C7109375B1C859932B416A7ACC8F7A5EF2D9935CB6E0D4C8E9DB26
+2024-11-13 13:29:02 Authentication successful. Sent OK to client.
+2024-11-13 13:29:02 Vector count received
+2024-11-13 13:29:02 Result of calculating vector send
+2024-11-13 13:29:02 Result of calculating vector send
+2024-11-13 13:29:02 Result of calculating vector send
+2024-11-13 13:29:02 Result of calculating vector send
+2024-11-13 13:54:43 Path to logfile set value: /home/stud/local_git/Kursovaia_Server/test/log.txt
+2024-11-13 13:54:43 Path to basefile set value: /home/stud/local_git/Kursovaia_Server/test/base.txt
+2024-11-13 13:54:43 Port set value: 33333
+2024-11-13 13:54:43 Connect to database success!
+2024-11-13 13:54:43 Server started
+2024-11-13 13:54:43 listen socket created
+2024-11-13 13:54:43 bind success
+2024-11-13 13:55:38 Client socket created
+2024-11-13 13:55:38 Received authentication message: user22AD06135D54959A36D8364D291E82FE977FD06D47D594542DC5BF0D49FD555E1035B93E0690825D
+2024-11-13 13:55:38 Auth message parsed. Login: user, Salt: 22AD06135D54959A, Client Hash: 36D8364D291E82FE977FD06D47D594542DC5BF0D49FD555E1035B93E0690825D
+2024-11-13 13:55:38 Calculated expected hash: 36D8364D291E82FE977FD06D47D594542DC5BF0D49FD555E1035B93E0690825D
+2024-11-13 13:55:38 Authentication successful. Sent OK to client.
+2024-11-13 13:55:38 Vector count received
+2024-11-13 13:55:38 Result of calculating vector send
+2024-11-13 13:55:38 Result of calculating vector send
+2024-11-13 13:55:38 Result of calculating vector send
+2024-11-13 13:55:38 Result of calculating vector send
